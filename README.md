@@ -1,38 +1,70 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Boas vindas ao repositório do projeto Shop!
 
-## Getting Started
+link da aplicação: https://money-blond.vercel.app/
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+# Sumário
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- [Boas vindas ao repositório do projeto Shop!](#boas-vindas-ao-repositório-do-projeto-shop)
+- [Sumário](#sumário)
+- [Descrição](#descrição)
+- [Preview](#preview)
+- [Rodando Local](#rodando-local)
+- [Ferramentas](#ferramentas)
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+# Descrição
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Projeto feito para compreender melhor os conceitos de SSR e SSG, com NextJs, o projeto simula um ecommerce, integrado com uma API de pagamentos.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+# Preview
 
-To learn more about Next.js, take a look at the following resources:
+preview listagem:
+![image](https://github.com/yurigarrido/shop/assets/81384601/d577024f-30f1-4971-af1d-523b0d492b68)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+preview visualização de um produto especifico
+![image](https://github.com/yurigarrido/shop/assets/81384601/21037bc8-27d9-47b3-ada1-38d0f054907e)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+preview tela de pagamento, com a API do Stripe
+![image](https://github.com/yurigarrido/shop/assets/81384601/027eb4a1-1c5f-4317-b256-bfc324e5df6b)
 
-## Deploy on Vercel
+preview tela de compra efeituada com sucesso
+![image](https://github.com/yurigarrido/shop/assets/81384601/23e5724d-b3c5-4bed-8d8d-47b59556027e)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+# Rodando Local:
+
+1. Clone o repositório
+
+- `git@github.com:yurigarrido/shop.git`.
+- Entre na pasta do repositório que você acabou de clonar:
+  - `cd money`
+
+2. Instale as dependências
+
+- `npm install`
+
+3. Crie uma branch a partir da branch `main`
+
+
+4. Crie um novo `Pull Request` _(PR)_
+
+- Vá até a página de _Pull Requests_ do repositório no GitHub
+- Clique no botão verde _"New pull request"_
+- Clique na caixa de seleção _"Compare"_ e escolha a sua branch **com atenção**
+- Clique no botão verde _"Create pull request"_
+- Adicione uma descrição para o _Pull Request_ e clique no botão verde _"Create pull request"_
+
+
+# Ferramentas
+
+- durante o desenvolvimento usei as seguintes ferramentas:
+  - TypeScript
+  - React
+  - Next
+  - html
+  - keen slider
+  - stittches
+  - axios
+  - stripe
