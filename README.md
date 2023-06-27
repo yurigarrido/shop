@@ -1,6 +1,6 @@
 # Boas vindas ao repositório do projeto Shop!
 
-link da aplicação: https://money-blond.vercel.app/
+link da aplicação: https://shop-alghzlxhr-yurigarrido.vercel.app
 
 
 # Sumário
