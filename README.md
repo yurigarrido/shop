@@ -21,16 +21,20 @@ Projeto feito para compreender melhor os conceitos de SSR e SSG, com NextJs, o p
 # Preview
 
 preview listagem:
-![image](https://github.com/yurigarrido/shop/assets/81384601/d577024f-30f1-4971-af1d-523b0d492b68)
+![image](https://github.com/yurigarrido/shop/assets/81384601/bf42263c-55b3-415c-a045-e1488486bdd6)
+
 
 preview visualização de um produto especifico
-![image](https://github.com/yurigarrido/shop/assets/81384601/21037bc8-27d9-47b3-ada1-38d0f054907e)
+![image](https://github.com/yurigarrido/shop/assets/81384601/f2192797-37fb-4933-b68a-d7f68bc7c93b)
+
 
 preview tela de pagamento, com a API do Stripe
-![image](https://github.com/yurigarrido/shop/assets/81384601/027eb4a1-1c5f-4317-b256-bfc324e5df6b)
+![image](https://github.com/yurigarrido/shop/assets/81384601/5164076a-60c9-4072-929d-5b5d68c599cf)
+
 
 preview tela de compra efeituada com sucesso
-![image](https://github.com/yurigarrido/shop/assets/81384601/23e5724d-b3c5-4bed-8d8d-47b59556027e)
+![image](https://github.com/yurigarrido/shop/assets/81384601/5688f3b2-c19e-47db-9e5d-692f0e786b93)
+
 
 
 # Rodando Local:
